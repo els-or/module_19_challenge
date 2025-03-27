@@ -1,0 +1,5 @@
+describe('basic spec', () => {
+  it('passes', () => {
+    cy.visit('http://localhost:3001')
+  })
+})
